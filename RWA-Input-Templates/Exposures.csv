@@ -1,0 +1,11 @@
+trade_id,product_type,balance_sheet_flag,notional,currency,maturity_years,CCF,EAD_formula,EAD_value
+T0001,Loan,On,482488,XXX,4.59,1.0,EAD = Notional × 100%,482488.0
+T0002,Bond,On,4020956,USD,4.9,1.0,EAD = Notional × 100%,4020956.0
+T0003,Equity Investment,On,1447390,USD,1.35,999.0,EAD = Notional × 100%,1447390.0
+T0004,Other Funded Exposure,On,-4607863,GBP,1.07,1.0,EAD = Notional × 100%,4607863.0
+T0005,Commitment (cancellable),Off,4213772,JPY,0.63,0.1,EAD = Notional × 10%,421377.2
+T0006,Commitment (other),Off,4884222,GBP,4.81,0.5,EAD = Notional × 50%,2442111.0
+T0007,Guarantee,Off,256224,EUR,1.44,1.0,EAD = Notional × 100%,256224.0
+T0008,Letter of Credit,Off,3713513,JPY,3.66,0.2,EAD = Notional × 20%,742702.6
+T0009,Standby LC,Off,1922002,GBP,4.18,0.5,EAD = Notional × 50%,961001.0
+T0010,Other OBS Exposure,Off,4064731,INR,1.43,0.25,EAD = Notional × CCF,1016182.75
