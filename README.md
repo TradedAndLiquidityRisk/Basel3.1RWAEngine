@@ -1,7 +1,3 @@
-Here’s a **README.md file in plain text** that explains what the pipeline is doing, why it matters under regulation, and the end‑to‑end steps as per Basel 3.1 / PRA rules:
-
----
-
 # Basel 3.1 / PRA RWA Calculation Pipeline
 
 ## Purpose
